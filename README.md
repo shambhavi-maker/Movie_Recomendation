@@ -154,3 +154,12 @@ Cross-Validation
 ----------------
 
 Prior versions of the MovieLens dataset included either pre-computed cross-folds or scripts to perform this computation. We no longer bundle either of these features with the dataset, since most modern toolkits provide this as a built-in feature. If you wish to learn about standard approaches to cross-fold computation in the context of recommender systems evaluation, see [LensKit](http://lenskit.org) for tools, documentation, and open-source code examples.
+
+References
+----------
+We recommend you to read the following blog explaining the journey of some of the cutting edge Recommendation System's out there:
+https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/
+https://research.netflix.com/research-area/recommendations
+https://www.amazon.science/the-history-of-amazons-recommendation-algorithm
+
+You would be excited to know that companies like YouTube, Netflix, Spotify, Amazon, etc... are generating billions of dollars in revenue using their state-of-the-art Recommender Systems.
